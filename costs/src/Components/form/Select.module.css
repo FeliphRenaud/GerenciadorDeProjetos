@@ -5,14 +5,14 @@
 }
 
 .selectControl label{
-    margin-bottom: 6em;
+    margin-bottom: 1em;
     font-weight: bold;
 }
 
 .selectControl select{
-    padding: 7em;
-    border-radius: 0;
-    border: none;
+    padding: 1em;
+    border-radius: 25px;
+    border: 2px solid gray;
 
 }
 

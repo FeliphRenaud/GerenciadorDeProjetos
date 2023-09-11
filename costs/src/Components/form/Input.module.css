@@ -5,14 +5,14 @@
 }
 
 .formControl label{
-    margin-bottom: 6em;
+    margin-bottom: 1em;
     font-weight: bold;
 }
 
 .formControl input{
-    padding: 7em;
-    border-radius: 0;
-    border: none;
+    padding: 0.5em;
+    border-radius: 25px;
+    border: 2px solid gray;
 
 }
 
