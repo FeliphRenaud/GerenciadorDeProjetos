@@ -2,25 +2,79 @@
   "projects": [
     {
       "name": "Projeto de criação e  implementação de Aplicativo ",
-      "budget": "150.000",
+      "budget": "15000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "service": [],
+      "cost": 4000,
+      "service": [
+        {
+          "name": "serviço teste ",
+          "cost": "1000",
+          "description": "teste ",
+          "id": "82c00137-2523-48b2-a55a-a0f9584b1554"
+        },
+        {
+          "name": "serviço teste 2",
+          "cost": "3000",
+          "description": "teste ",
+          "id": "8dc5e16a-a226-4e81-bf1b-efef156477e5"
+        }
+      ],
       "id": 2
     },
     {
-      "name": "correção de bug em site ",
+      "name": "Atualização Categoria  correção de bug ",
       "budget": "1.500",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "service": [],
       "id": 3
+    },
+    {
+      "name": "Projeto teste 06 ",
+      "budget": "93.000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 4
+    },
+    {
+      "name": "Atualizanção de projeto teste 09 ",
+      "budget": "130000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 4000,
+      "service": [
+        {
+          "name": "Contratar Dev Php ",
+          "cost": "500",
+          "description": "pequenas atualizações em código  pré existente   ",
+          "id": "ee8c320c-5ac9-4ec6-ab9b-46a18b733ec2"
+        },
+        {
+          "name": "Contratar Dev Php ",
+          "cost": "500",
+          "description": "pequenas atualizações em código  pré existente   ",
+          "id": "ee8c320c-5ac9-4ec6-ab9b-46a18b733ec2"
+        },
+        {
+          "name": "contrato De SQL ",
+          "cost": "3000",
+          "description": "Criação de modelo de DB ",
+          "id": "4d42f4e4-a168-4005-a15a-1740c596c467"
+        }
+      ],
+      "id": 5
     }
   ],
   "categories": [

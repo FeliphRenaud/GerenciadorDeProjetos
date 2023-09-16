@@ -4,6 +4,7 @@ import Company from './Components/Pages/Company'
 import Contact from './Components/Pages/Contact'
 import NewProject from './Components/Pages/NewProject'
 import Projects from './Components/Pages/Projects'
+import Project from './Components/Pages/Project'
 
 
 import Container from './Components/layout/Container'
@@ -36,6 +37,10 @@ function App() {
             <Route  
             path='/newproject'
             element = {<NewProject/>}
+            ></Route>
+            <Route  
+            path='/project/:id'
+            element = {<Project/>}
             ></Route>
           </Routes>
         </Container> 
